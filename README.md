@@ -17,4 +17,4 @@
      <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </divi><br>
 
-Apaixonado por tecnologia! Minha paixão pela tecnologia é algo que me impulsiona diariamente. Coim isso, estou sempre ansioso por aprender mais. Dessa forma, meu foco é inabalável, pois almejo me tornar um programador de destaque um dia.
+Sempre em busca de novos desafios!
