@@ -69,8 +69,4 @@ Pipeline automatizado para leitura, classificação e resposta inteligente de e-
 
 ## 📊 Estatísticas
 
-### 🔥 Streak Stats
-<img src="https://streak-stats.demolab.com?user=John-helder&theme=radical" alt="GitHub Streak" />
-
-### 🟩 Mapa de Contribuições
-<img src="https://github-contributions-api.jogruber.de/v4/John-helder" alt="Contributions" />
+![Profile Views](https://komarev.com/ghpvc/?username=John-helder&color=blue&style=flat-square)
