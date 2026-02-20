@@ -56,17 +56,6 @@ Atualmente desenvolvendo projetos profissionais, sempre aplicando boas práticas
 
 ---
 
-# 🚀 Projetos Recentes
-
-[![SmartExpense - Projeto em andamento](https://github.com/John-helder/SmartExpense)]()  
-API para gestão de despesas com **Java, Spring Boot, PostgreSQL, e arquitetura limpa**. 
-
-
-[![Email Automation](https://img.shields.io/badge/Processamento_de_Emails-Python-orange?style=for-the-badge&logo=gmail&logoColor=white)]()  
-Pipeline automatizado para leitura, classificação e resposta inteligente de e-mails.
-
----
-
 ## 📊 Estatísticas
 
 ![Profile Views](https://komarev.com/ghpvc/?username=John-helder&color=blue&style=flat-square)
