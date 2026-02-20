@@ -58,8 +58,8 @@ Atualmente desenvolvendo projetos profissionais, sempre aplicando boas práticas
 
 # 🚀 Projetos Recentes
 
-[![Tasks](https://img.shields.io/badge/Tasks-API_Java_/_Spring-2ecc71?style=for-the-badge&logo=spring&logoColor=white)]()  
-API de criação tarefas com **Java, Spring Boot, PostgreSQL, Docker e arquitetura limpa**. 
+[![SmartExpense - Projeto em andamento](https://github.com/John-helder/SmartExpense)]()  
+API para gestão de despesas com **Java, Spring Boot, PostgreSQL, e arquitetura limpa**. 
 
 
 [![Email Automation](https://img.shields.io/badge/Processamento_de_Emails-Python-orange?style=for-the-badge&logo=gmail&logoColor=white)]()  
